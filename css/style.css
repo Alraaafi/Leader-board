@@ -62,8 +62,9 @@ main{
     color: #FF4A60;
 }
 .player:hover, .card:hover{
-    transform: scale(1.05) translateX(3px);
+    transform: scale(1.03) translateX(3px);
     transition:transform .3s ease-in .2s ;
     cursor: pointer;
+    color: #ED6B4F;
 
 }
